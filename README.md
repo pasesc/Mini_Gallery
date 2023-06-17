@@ -1,6 +1,6 @@
 # vuedemo
 
-> A Vue.js project
+> A Vue.js project created by pasesc
 
 ## Build Setup
 
@@ -9,7 +9,8 @@
 npm install
 
 # serve with hot reload at localhost:8080
-npm run dev
+npm run dev  
+//key to run your project
 
 # build for production with minification
 npm run build
