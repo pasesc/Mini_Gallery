@@ -1,4 +1,4 @@
-# vuedemo
+# Mini Gallery Amateur Edition(迷你画展网初阶版) 
 
 > A Vue.js project created by pasesc
 
